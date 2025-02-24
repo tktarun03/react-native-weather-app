@@ -1,0 +1,11 @@
+{
+    "name": "react-native-weather-app",
+    "version": "1.0.0",
+    "dependencies": {
+        "react": "18.0.0",
+        "react-native": "0.71.0"
+    },
+    "scripts": {
+        "start": "expo start"
+    }
+}
